@@ -1,5 +1,6 @@
 # server-header-scan
-Scan a target list of web servers looking for information leakage through Server HTTP headers
+Scan a target list of web servers looking for information leakage through Server HTTP headers.
+Read more about it [here on the Raxis blog](https://raxis.com/blog/reporting-tools).
 
 ## Installation
 All required libraries are covered in the Python3 standard lib, so cloning this repository should suffice.
